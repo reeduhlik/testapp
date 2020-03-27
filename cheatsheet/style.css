@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: blue;
+}
+p{
+    line-height: 1.6em;
+}
+
+.box1{
+    background: grey;
+    padding: 1%;
+    width: 80%;
+    margin: auto;
+}
